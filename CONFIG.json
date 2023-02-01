@@ -1,0 +1,27 @@
+{
+    "WEIGHTS": {
+        "ESSENTIAL SKILLS": 0.25,
+        "OPTIONAL SKILLS": 0.25,
+        "WORK CONTEXT": 0.25,
+        "WORK AREA": 0.25
+    },
+
+    "SIGMOID": {
+        "ALPHA": 50,
+        "BETA": 40
+
+    },
+
+    "JOB_DEFINITIONS": {
+     "IS_GREEN": 2,
+     "IS_DIGITAL": 2
+    },
+    "RETURNED_VALUES":{
+        "NUMBER_TO_RETURN": 5
+    },
+    "HISTORY":
+    {"DECAY":-0.8,
+    "SPEED":1
+}
+
+}
